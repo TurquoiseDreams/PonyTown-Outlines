@@ -306,6 +306,4 @@
         characterData: true,
         attributes: true
     });
-
-    window.Injection = Injection;
 })(window, document);
