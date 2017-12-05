@@ -3,7 +3,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/neeve01/ponytown-outlines.svg)]()
 [![Twitter Follow](https://img.shields.io/twitter/follow/notmywing.svg?style=social&label=Get%20my%20unimportant%20tweets)](https://twitter.com/NotMyWing)
 
-# Tested with PonyTown 0.28.4-alpha version!
+# Tested with PonyTown 0.29.0-alpha version!
 ### And I gotta credit [Keupoz](https://github.com/keupoz), since it's basically his idea.
 
 <div style="text-align:center"><img src="https://i.imgur.com/GiflxoD.png"/></div>
