@@ -3,7 +3,7 @@
 // @namespace   azedith
 // @include     https://pony.town/*
 // @author      @NotMyWing
-// @version     0.28.4a
+// @version     0.29.0pre1
 // @grant       none
 // @downloadURL	https://github.com/Neeve01/PonyTown-Outlines/raw/master/PonyTown_Outlines.user.js
 // ==/UserScript==
